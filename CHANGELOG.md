@@ -1,5 +1,13 @@
 # @hyperlane-xyz/registry
 
+## 4.3.7
+
+### Patch Changes
+
+- d7dc44d: Add gasCurrencyCoinGeckoId for AW testnets
+- d139fd1: Change `displayName` for Aleph Zero EVM
+- 234d74c: Update solana explorer to solscan
+
 ## 4.3.6
 
 ### Patch Changes
